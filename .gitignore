@@ -1,0 +1,4 @@
+# Locally generated compiler and test outputs.
+Entropy/build/
+Entropy/*.exp
+Entropy/*.lib
